@@ -108,3 +108,5 @@ export default function RootLayout({
         </html>
     );
 }
+
+// https://fundraiseret.vercel.app/admin?pass-key=syed0amir1ali&__vercel_draft=1

@@ -37,7 +37,7 @@ const conditions: ConditionItemProps[] = [
         title: 'ব্যাংক ট্রান্সফার <span class="text-primary text-sm font-li-ador-semibold px-2">(পার্সোনাল - DBBL - Nexus)</span>',
         icon: '',
         summary:
-            'আমাদের ব্যাংক ট্রান্সফার নম্বরে পেমেন্ট করার জন্য <span class="text-primary font-bold text-lg px-1 tracking-wide">2956 - 1152 - 3400 - 2195</span> এই নম্বরে সেনডমানি করুন! সেনডমানি সফল হলে ট্রান্সজেকশন নম্বর টি ফর্মে বসান।',
+            'আমাদের ব্যাংক ট্রান্সফার নম্বরে পেমেন্ট করার জন্য <span class="text-primary font-bold text-lg px-1 tracking-wide">2956 - **** - 3400 - 2195</span> এই নম্বরে সেনডমানি করুন! সেনডমানি সফল হলে ট্রান্সজেকশন নম্বর টি ফর্মে বসান।',
     },
     {
         id: 1,
