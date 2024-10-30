@@ -1,4 +1,4 @@
-'use client'; // ০১৮১৭৮০৭৫৯৪ -
+'use client'; // ০১৮১৭৮০৭৫৯৪ - 01817807594
 import React from 'react';
 import AddForm from './components/AddForm';
 import { FunderLists } from './components/FunderList';
@@ -9,28 +9,28 @@ const conditions: ConditionItemProps[] = [
         title: 'বিকাশ <span class="text-primary text-sm font-li-ador-semibold px-2">(পার্সোনাল)</span>',
         icon: '',
         summary:
-            'আমাদের বিকাশ নম্বরে পেমেন্ট করার জন্য <span class="text-primary font-bold text-lg px-1 tracking-wide">01817807594</span> এই নম্বরে সেনডমানি করুন! সেনডমানি সফল হলে ট্রান্সজেকশন নম্বর টি ফর্মে বসান।',
+            'আমাদের বিকাশ নম্বরে পেমেন্ট করার জন্য <span class="text-primary font-bold text-lg px-1 tracking-wide">*************</span> এই নম্বরে সেনডমানি করুন! সেনডমানি সফল হলে ট্রান্সজেকশন নম্বর টি ফর্মে বসান।',
     },
     {
         id: 7,
         title: 'নগদ <span class="text-primary text-sm font-li-ador-semibold px-2">(পার্সোনাল)</span>',
         icon: '',
         summary:
-            'আমাদের নগদ নম্বরে পেমেন্ট করার জন্য <span class="text-primary font-bold text-lg px-1 tracking-wide">01817807594</span> এই নম্বরে সেনডমানি করুন! সেনডমানি সফল হলে ট্রান্সজেকশন নম্বর টি ফর্মে বসান।',
+            'আমাদের নগদ নম্বরে পেমেন্ট করার জন্য <span class="text-primary font-bold text-lg px-1 tracking-wide">*************</span> এই নম্বরে সেনডমানি করুন! সেনডমানি সফল হলে ট্রান্সজেকশন নম্বর টি ফর্মে বসান।',
     },
     {
         id: 8,
         title: 'রকেট <span class="text-primary text-sm font-li-ador-semibold px-2">(পার্সোনাল)</span>',
         icon: '',
         summary:
-            'আমাদের রকেট নম্বরে পেমেন্ট করার জন্য <span class="text-primary font-bold text-lg px-1 tracking-wide">01817807594</span> এই নম্বরে সেনডমানি করুন! সেনডমানি সফল হলে ট্রান্সজেকশন নম্বর টি ফর্মে বসান।',
+            'আমাদের রকেট নম্বরে পেমেন্ট করার জন্য <span class="text-primary font-bold text-lg px-1 tracking-wide">*************</span> এই নম্বরে সেনডমানি করুন! সেনডমানি সফল হলে ট্রান্সজেকশন নম্বর টি ফর্মে বসান।',
     },
     {
         id: 9,
         title: 'উপায় <span class="text-primary text-sm font-li-ador-semibold px-2">(পার্সোনাল)</span>',
         icon: '',
         summary:
-            'আমাদের উপায় নম্বরে পেমেন্ট করার জন্য <span class="text-primary font-bold text-lg px-1 tracking-wide">01817807594</span> এই নম্বরে সেনডমানি করুন! সেনডমানি সফল হলে ট্রান্সজেকশন নম্বর টি ফর্মে বসান।',
+            'আমাদের উপায় নম্বরে পেমেন্ট করার জন্য <span class="text-primary font-bold text-lg px-1 tracking-wide">*************</span> এই নম্বরে সেনডমানি করুন! সেনডমানি সফল হলে ট্রান্সজেকশন নম্বর টি ফর্মে বসান।',
     },
     {
         id: 10,

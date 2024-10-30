@@ -499,7 +499,7 @@ export async function POST(req: NextRequest) {
 //     profileImage: 'bkash.svg',
 //     paymentRefImage: 'nagad.svg',
 //     accountType: 'bkash',
-//     password: '01817807594',
+//     password: '*************',
 //     createdAt: '2024-10-29T08:09:02.456Z',
 //     updatedAt: '2024-10-29T08:09:02.481Z',
 //     isVerified:1
